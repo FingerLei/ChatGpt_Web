@@ -154,4 +154,5 @@ A: `vscode` 请安装项目推荐插件，或手动安装 `Eslint` 插件。
 </a>
 
 ## License
-MIT © [FingerLei](./license)
+MIT © [FingerLei](https://github.com/FingerLei/ChatGpt_Web.git)
+(./license)
