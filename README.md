@@ -4,7 +4,7 @@
 
 ![PC](./docs/Chatgpt_web.PNG)
 
-> 提示：目前 `OpenAI` 已经开放的模型网页所使用的 `GPT-3.5-turbo`,更新至`GPT-3.5-turbo`了
+> 提示：目前 `OpenAI` 已经开放的模型网页所使用的 `GPT-4`,更新至`GPT-4`了
 
 ## 待实现路线
 [✓] 多会话储存和上下文逻辑
